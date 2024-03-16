@@ -1,2 +1,2 @@
 # ryankennethrom.github.io
-![Bird Drawing](/ryankennethrom.github.io/bird.png)
+![Bird Drawing](/ryankennethrom.github.io/bird.jpg)
